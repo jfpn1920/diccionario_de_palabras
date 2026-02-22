@@ -7,7 +7,7 @@ Este proyecto consiste en desarrollar un pequeño diccionario interactivo en Pyt
 
 El sistema permite al usuario agregar nuevas palabras, consultar definiciones existentes y visualizar todas las palabras registradas. La interacción se realiza a través de un menú en consola que permanece activo hasta que el usuario decide salir del programa.
 
-Este proyecto simula el funcionamiento básico de un diccionario digital, reforzando el uso de estructuras de datos tipo clave–valor y promoviendo la organización modular del código mediante funciones independientes para cada operación. Además, se busca fortalecer la lógica de validación de datos y la manipulación de cadenas de texto, garantizando que las entradas del usuario sean procesadas de manera adecuada y consistente.
+Este proyecto simula el funcionamiento básico de un diccionario digital, reforzando el uso de estructuras de datos tipo clave–valor y promoviendo la organización modular del código mediante funciones independientes para cada operación. Además, se busca fortalecer la lógica de validación de datos y la manipulación de cadenas de texto.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
